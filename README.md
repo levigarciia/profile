@@ -6,6 +6,24 @@ Atuo desde o back-end robusto até o front-end interativo, sempre com performanc
 
 ---
 
+### 🛠️ Stack principal
+
+#### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### Back-end
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+
+---
+
 ### 🚀 Tecnologias que utilizo
 
 #### Front-end
@@ -26,21 +44,6 @@ Atuo desde o back-end robusto até o front-end interativo, sempre com performanc
 - **Python** para scripts, automações e lógica backend
 - **Figma, After Effects, Premiere** para design e conteúdo visual
 
----
-
-### 🛠️ Stack principal
-
-#### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### Back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
 ---
@@ -48,7 +51,7 @@ Atuo desde o back-end robusto até o front-end interativo, sempre com performanc
 ### 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-contato@kitelabs.com.br-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@kitelabs.com.br)  
-[![Discord](https://img.shields.io/badge/Discord-levi%20garcia%239999-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/267522751374426113)  
+[![Discord](https://img.shields.io/badge/Discord-levigarciia-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/267522751374426113)  
 
 
 ---
